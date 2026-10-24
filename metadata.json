@@ -1,0 +1,6 @@
+{
+  "name": "AUREX // Gold Intelligence",
+  "description": "Institutional-grade global Gold trading intelligence platform, quantitative analytics terminal, 360-degree 3D satellite globe visualizer for cross-border gold trades, and country-level sovereign gold reserves dossier for XAUUSD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
